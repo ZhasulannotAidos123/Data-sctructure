@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 public class MyLinkedList<T> implements List<T>{
     private Node<T> head;
     private int size;
@@ -58,3 +59,7 @@ public class MyLinkedList<T> implements List<T>{
 
 
 }
+=======
+package PACKAGE_NAME;public class MyLinkedList {
+}
+>>>>>>> origin/master
